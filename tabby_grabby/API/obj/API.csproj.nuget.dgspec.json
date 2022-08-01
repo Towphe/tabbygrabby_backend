@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-1\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj": {}
+    "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-2\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-1\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj": {
+    "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-2\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-1\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-2\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-1\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj",
+        "projectPath": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-2\\tabbygrabby_backend\\tabby_grabby\\API\\API.csproj",
         "packagesPath": "C:\\Users\\casti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-1\\tabbygrabby_backend\\tabby_grabby\\API\\obj\\",
+        "outputPath": "C:\\Users\\casti\\OneDrive\\Documents\\Programming Files\\Projects\\tabbygrabby_backend\\cjc-2\\tabbygrabby_backend\\tabby_grabby\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casti\\AppData\\Roaming\\NuGet\\NuGet.Config",
